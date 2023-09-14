@@ -1,0 +1,1 @@
+export { CourseLazy } from "./ui/Course.lazy";

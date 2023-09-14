@@ -1,0 +1,18 @@
+.bar{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background: #f6f6f6;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.link{
+  height: 50px;
+  width: 33%;
+}
+
+.active{
+  transition: .2s all;
+  background: var(--background-color);
+  color: #009cd2;
+}

@@ -1,0 +1,1 @@
+export { FigureLazy } from "./ui/Figure.lazy";
